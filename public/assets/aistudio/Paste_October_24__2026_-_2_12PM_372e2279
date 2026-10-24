@@ -1,0 +1,552 @@
+Business Name: Johnston Roofing
+Development Platform: Google AI Studio
+Primary Objective: Build a stunning, premium, fully responsive roofing website demo that I can present to a real roofing business as a proposal for its future website.
+
+2. YOUR ROLE
+Act as an elite digital agency combining the expertise of:
+An award-winning creative director.
+A premium brand identity strategist.
+A world-class UI/UX designer.
+A roofing industry marketing specialist.
+A conversion-rate optimisation expert.
+A senior frontend engineer.
+A cinematic motion designer.
+A technical SEO specialist.
+A performance and accessibility engineer.
+Your mission is to transform only the supplied business name into a visually extraordinary roofing website demo that looks as though a premium international digital agency designed and developed it.
+Do not build an ordinary contractor website.
+Do not generate a generic AI website template with a logo, hero image, three service cards, and a contact form.
+Create a distinctive digital experience that makes the business owner immediately imagine how much more professional, credible, and attractive their business could appear online.
+Think beyond conventional roofing website design. Combine architectural precision, premium editorial layouts, dramatic photography, sophisticated typography, carefully choreographed motion, and conversion-focused UX.
+The final experience should feel bespoke, visually memorable, commercially effective, and technically polished.
+3. CRITICAL CONTEXT: THIS IS A WEBSITE DEMO FOR A REAL PROSPECT
+The roofing business may have:
+No existing website.
+No professional logo.
+No established brand identity.
+No defined colour palette.
+No professional project photography.
+No documented brand guidelines.
+Little or no publicly available company information.
+Assume that I am building the first proposed digital identity and website concept for this business.
+Do not waste time searching for an existing website or require existing branding. Start creating.
+The business name above is the only mandatory input.
+Do not ask me to complete a questionnaire before building. Make strong creative decisions independently and produce the best possible first version.
+If browsing is available, you may briefly research the business name to avoid obvious naming conflicts or understand any reliable publicly available context. However, the absence of online information must never prevent you from proceeding.
+Do not assume that a similarly named business is the same business.
+The governing principle
+Invent the design, not the facts.
+You have creative freedom to propose the business's visual identity, art direction, layout, headline, typography, colour palette, imagery, and user experience.
+You do not have permission to fabricate the company's history, credentials, projects, reviews, warranties, customer statistics, location, contact details, or achievements.
+This is a proposed website concept, not a claim that the business already owns the website or has approved the branding.
+4. FIRST: CREATE A DISTINCTIVE BRAND IDENTITY
+Before designing the website, develop a proposed identity that fits the business name and the roofing industry.
+Do not simply apply the same charcoal-and-orange palette and identical layout to every business.
+A. Brand personality
+Interpret the business name and choose a coherent brand personality.
+Possible directions include:
+Premium architectural roofing.
+Modern residential roofing.
+Industrial roofing and structural engineering.
+Specialist roof restoration.
+Rugged, dependable roofing craftsmanship.
+Contemporary commercial roofing.
+Luxury property protection.
+Select the direction that best suits the business name and the proposed visual experience.
+B. Create a logo or wordmark
+Design a clean, distinctive logo concept that can be implemented directly in the website.
+Consider:
+A custom typographic wordmark.
+A restrained geometric roofline symbol.
+An architectural monogram.
+A minimal abstract symbol inspired by protection, structure, or precision.
+A sophisticated combination of typography and symbol.
+Avoid generic clip-art roofs, cartoon houses, excessive gradients, and overcomplicated symbols.
+The logo must look professional in the navbar, footer, mobile menu, and favicon.
+If a genuine logo is unavailable, create a proposed identity using editable SVG or CSS wherever practical.
+Do not represent the proposed logo as an existing official logo.
+C. Establish the design system
+Define a complete visual system before building the pages:
+Primary and secondary colours.
+Background and surface colours.
+Accent colour.
+Heading and body typography.
+Display typography.
+Spacing scale.
+Grid system.
+Border and corner-radius rules.
+Button styles.
+Image treatments.
+Motion principles.
+Responsive breakpoints.
+Choose colours deliberately based on the brand personality.
+Potential directions include dark graphite with warm ivory, deep navy with cool white, architectural grey with copper, forest green with cream, or a clean residential palette with muted earthy accents.
+These are examples, not mandatory combinations.
+The resulting identity must feel intentional, premium, and recognisable.
+5. THE VISUAL STANDARD: EXCEPTIONAL, NOT GENERIC
+The website should feel as if architectural precision meets premium automotive art direction and the craftsmanship of a high-end construction brand.
+Prioritise:
+A memorable first impression.
+Large, art-directed roofing photography.
+Bold but elegant typography.
+Asymmetrical compositions.
+Strong visual hierarchy.
+Editorial-style layouts.
+Generous negative space.
+Refined contrast.
+Distinctive section transitions.
+Sophisticated micro-interactions.
+Subtle architectural and technical details.
+A consistent visual narrative.
+Do not interpret “out of this world” as adding random effects everywhere.
+The experience should be extraordinary because of the quality of its composition, imagery, typography, interactions, and attention to detail.
+Strictly avoid
+Generic roofing templates.
+Repetitive three-column card grids.
+Identical layouts for every section.
+Excessive text.
+Generic AI-generated copy.
+Overused blue-and-orange branding.
+Cartoon roof illustrations.
+Excessive gradients and glassmorphism.
+Unnecessary 3D elements.
+Random particles and spinning objects.
+Distracting animated backgrounds.
+Excessive rounded cards.
+Repetitive fade-in animations.
+Fake dashboards and irrelevant technology visuals.
+Fake testimonials, statistics, and project results.
+Empty sections filled with placeholders simply to increase page length.
+Every section must have a clear purpose and contribute to the visual story.
+6. CREATE AN IMMEDIATE, HIGH-IMPACT HERO
+The hero section must establish the proposed brand identity and communicate the business's roofing services within seconds.
+Do not begin with a generic “Welcome to our website” heading.
+Create a visually dominant hero containing:
+A refined navigation bar.
+A small, purposeful eyebrow label.
+A memorable headline.
+A concise value proposition.
+A primary CTA.
+A secondary CTA.
+A compelling roofing photograph or cinematic image composition.
+Subtle supporting design details where appropriate.
+Possible headline directions include:
+“Built to Protect. Designed to Endure.”
+“A Higher Standard of Roofing.”
+“Protection Starts at the Top.”
+“Precision Above. Confidence Below.”
+“Roofing That Stands the Test of Time.”
+These are creative references. Write a more distinctive headline when the business name or chosen brand direction supports one.
+Do not make unsupported claims about the company's quality, experience, or guarantees.
+Hero composition
+Explore a creative composition rather than defaulting to centred text over a dark background.
+Depending on the brand, consider:
+Asymmetrical split-screen layouts.
+Full-bleed architectural photography.
+Large left-aligned typography with a cinematic image on the right.
+A full-width photographic hero with carefully controlled text placement.
+An editorial composition with oversized type and restrained technical annotations.
+Layered imagery with subtle depth and a refined CTA arrangement.
+Choose one strong direction and execute it exceptionally well.
+The hero must remain clear, readable, and compelling on mobile devices.
+7. PHOTOGRAPHY AND VISUAL STORYTELLING
+Roofing is a visually demonstrable service. The website should communicate quality primarily through imagery, supported by concise, useful copy.
+Use high-quality, realistic photographs relevant to roofing and property maintenance.
+Prioritise imagery such as:
+Modern residential roofs.
+Metal roofing systems.
+Roof installation and construction.
+Commercial and industrial roofing.
+Roof restoration and repainting.
+Rust treatment and protective coatings.
+Roof washing and water blasting.
+Roofing professionals carrying out work safely.
+Architectural close-ups of roofing materials.
+Finished buildings photographed from compelling angles.
+Image selection rules
+Use the image-generation, image-search, or image-selection capabilities available in the platform to create a cohesive photographic direction.
+Every image must have a clear purpose.
+Match images to the relevant service rather than repeating the same roof photograph throughout the website.
+Use deliberate cropping, lighting, contrast, aspect ratios, and transitions.
+Do not use unrelated skyscrapers, generic office photographs, random construction machinery, or imagery that does not communicate roofing expertise.
+Important: Any stock or AI-generated imagery is illustrative. Never label it as a completed project by the actual business, present fictional before-and-after photographs as genuine results, or imply that the company performed the depicted work.
+If genuine project photography is unavailable, design a visually rich gallery that can later accommodate the business's own photographs.
+8. WEBSITE ARCHITECTURE
+Build a complete, cohesive website rather than just a homepage mockup.
+Create the pages or functional sections that make sense for a roofing business.
+Recommended structure
+Home.
+Roofing Services.
+Individual service detail pages where useful.
+Projects / Our Work.
+About.
+Our Process.
+FAQs.
+Contact / Request a Quote.
+Privacy Policy, when appropriate.
+Keep the architecture proportionate to the demo.
+Do not create empty pages or excessive navigation items. If the platform is better suited to a polished single-page experience, implement a comprehensive single-page website with meaningful anchor navigation and reusable components.
+Ensure the final result has a clear customer journey.
+9. ROOFING SERVICES: SHOW, DON'T JUST TELL
+Since the only mandatory input is the business name, use a sensible, editable starting set of roofing services.
+Depending on the chosen business concept, these may include:
+Roof installation and replacement.
+Roof repairs and maintenance.
+Metal and structural roofing.
+Roof painting and protective coatings.
+Rust treatment and restoration.
+Roof cleaning and water blasting.
+Residential roofing.
+Commercial roofing.
+Do not imply that the company definitely provides every service. Treat these as proposed service categories that the business owner can confirm and customise.
+Select the most coherent service set for the concept instead of displaying every possible service.
+Service presentation
+Create visually rich service sections that feel bespoke.
+Consider:
+Large photographic panels.
+Asymmetrical image-and-text layouts.
+Numbered editorial sections.
+Horizontal service showcases.
+Image-led service tiles.
+Full-width photography with concise copy.
+Distinctive layouts for primary versus secondary services.
+Avoid displaying every service in an identical card.
+For each service, explain briefly:
+What it involves.
+What customer need it addresses.
+What the customer can do next.
+Use concise, customer-focused copy rather than lengthy technical descriptions.
+Every service CTA must navigate to a relevant section, detail page, or enquiry form.
+10. BUILD THE HOMEPAGE AS A VISUAL NARRATIVE
+Design the homepage in a deliberate sequence.
+Section A: Navigation
+Include:
+Proposed logo or wordmark.
+Concise navigation.
+A prominent quote-request CTA.
+Subtle hover states.
+Smooth sticky-header behaviour.
+A fully functional mobile menu.
+Section B: Hero
+Establish the identity, roofing category, key message, and CTA immediately.
+Section C: Brand introduction
+Introduce the proposed business concept with concise copy and strong visual composition.
+Do not invent a company history or claim that the company has an established reputation.
+Section D: Core services
+Present the most relevant roofing services with differentiated layouts and matching imagery.
+Section E: Why professional roofing matters
+Communicate customer-relevant themes such as weather protection, maintenance, material suitability, workmanship considerations, and property upkeep.
+Avoid presenting unverified company-specific capabilities as facts.
+Section F: Featured work / visual gallery
+Create a compelling, replaceable gallery for genuine project images.
+Until genuine assets are available, treat the photographs as illustrative inspiration. Do not fabricate case studies, customer names, locations, project dates, or results.
+Section G: Our process
+Show a proposed customer journey, such as:
+Submit an enquiry.
+Arrange an assessment.
+Review the proposed scope and quotation.
+Schedule the agreed work.
+Complete the service and review the outcome.
+Adapt the process to a typical roofing enquiry and avoid promising that the actual business follows these steps.
+Section H: FAQs
+Include useful general questions about roofing services, inspections, quotations, preparation, maintenance, and the next steps.
+Use careful, informative answers. Do not invent specific prices, warranty terms, turnaround times, or business policies.
+Section I: Final CTA
+Create a visually striking closing section with a strong headline, a concise message, and a prominent enquiry CTA.
+Make this feel like the final visual statement of the website.
+Section J: Footer
+Include the wordmark, useful navigation, service links, and appropriate legal links.
+Do not invent a business address, telephone number, email, social media account, or service area.
+11. CINEMATIC MOTION DESIGN SYSTEM
+Motion is a core part of the visual experience, but it must remain sophisticated, restrained, and purposeful.
+Create a consistent motion language across the website.
+Level 1: Micro-interactions
+Use for:
+Button hover and active states.
+Navigation indicators.
+Icon movement.
+Link underlines.
+Image hover states.
+Input focus.
+Accordion icons.
+Target approximately 150–300 ms for simple interactions.
+Level 2: Section reveals
+Use selectively for:
+Heading reveals.
+Image masks.
+Service entrances.
+Project galleries.
+Process steps.
+Alternating image-and-text layouts.
+Target approximately 300–600 ms for standard transitions.
+Level 3: Signature moments
+Reserve the most elaborate transitions for:
+Hero entrance.
+A featured roofing image.
+The primary services showcase.
+The projects gallery.
+The final CTA.
+Major visual reveals may use approximately 600–900 ms where appropriate.
+These timings are initial guidelines, not rigid requirements. Keep the site responsive and never delay access to important information.
+12. HERO ANIMATION
+Create a polished entrance sequence.
+The proposed wordmark and navigation settle into view.
+The eyebrow label appears.
+The headline reveals line by line using a subtle mask or clip-path.
+Supporting copy moves gently into position.
+CTA buttons enter with a short stagger.
+The hero photograph reveals through a restrained image mask.
+The photograph settles into its natural scale.
+Use subtle scaling, generally beginning around 1.04–1.08 before settling to 1.0.
+Do not use excessive zooming, aggressive parallax, or a long intro animation.
+The page must become useful immediately.
+13. SCROLL-TRIGGERED ANIMATIONS
+Implement performant scroll reveals using Intersection Observer or a suitable animation library.
+Headings
+Reveal the eyebrow, heading, supporting text, and CTA in a controlled sequence.
+Alternating service and content layouts
+Where the composition supports it, alternate entrance directions:
+First item: left to centre.
+Second item: right to centre.
+Third item: left to centre.
+Fourth item: right to centre.
+Use a modest horizontal offset of approximately 30–60 px with opacity transitions.
+Do not force alternating motion onto every section.
+Images
+Use selected clip-path reveals, image masks, or subtle scale-and-opacity transitions.
+Project gallery
+Where appropriate, add:
+Staggered entrance.
+Subtle image zoom on hover.
+Restrained caption reveals.
+A clear indication that the image can be opened.
+Card interactions
+Use modest lifts, restrained shadows, subtle border transitions, and small arrow movements.
+Avoid exaggerated movement, excessive stagger, and animation on every element.
+14. NAVIGATION AND MOBILE MENU
+Desktop navigation
+Create a premium navbar with:
+A transparent or minimal initial surface where appropriate.
+A subtle background transition on scroll.
+Optional backdrop blur if performant.
+A restrained border or shadow.
+Smooth hover indicators.
+A clear primary CTA.
+Mobile navigation
+Build a fully functional, animated mobile menu.
+Opening sequence:
+Hamburger icon morphs into an X.
+Background overlay fades in.
+Menu panel slides in from the right.
+Navigation links appear with a subtle stagger.
+The primary CTA appears last.
+Closing sequence:
+Links exit.
+CTA exits.
+Panel slides away.
+Overlay fades out.
+Hamburger icon returns.
+The menu must also:
+Lock background scrolling while open.
+Prevent interaction with background content.
+Support Escape to close.
+Maintain accessible focus.
+Return focus to the trigger.
+Close after navigation when appropriate.
+Preserve the underlying scroll position.
+Do not create a visual-only menu. All navigation must work.
+15. INTERACTIVE PROJECT GALLERY
+Create a polished gallery suitable for replacing illustrative imagery with genuine company photographs.
+When appropriate, implement:
+Responsive image grids.
+Consistent image aspect ratios.
+Image hover transitions.
+Accessible image viewing.
+A lightbox with a clear close control.
+Escape-key support.
+Keyboard navigation where practical.
+Touch-friendly controls on mobile.
+Do not fabricate before-and-after transformations.
+If a reliable lightbox is not feasible, use a simpler accessible gallery rather than a broken advanced interaction.
+16. FUNCTIONAL CONTACT AND QUOTE ENQUIRY
+Conversion is essential. The website must help potential customers take the next step.
+Create a polished enquiry form with only the necessary fields, for example:
+Name.
+Email or phone.
+Service required.
+Property type.
+Brief description of the requirement.
+Keep the form simple and mobile-friendly.
+Include useful validation, accessible labels, understandable errors, and a genuine submission state.
+Because the business's actual contact details and backend are unknown:
+Do not invent a phone number, email, WhatsApp account, or CRM endpoint.
+Do not pretend the form sends messages if no backend or submission integration exists.
+Do not display a success message before receiving a genuine successful response.
+Clearly isolate the contact configuration so it can be connected later.
+If the platform supports a functional demo-only submission flow, distinguish it from a real enquiry submission.
+The primary CTA must lead somewhere useful, such as the enquiry form or contact section.
+Every button, link, menu item, and interactive component must have a defined behaviour.
+17. PERFORMANCE, ACCESSIBILITY, AND RESPONSIVENESS
+The website must be visually impressive without becoming slow or difficult to use.
+Performance
+Prioritise:
+Optimised images.
+Responsive image sizes.
+Lazy loading below the fold.
+Explicit image dimensions.
+Transform and opacity animations.
+Minimal unnecessary JavaScript.
+Efficient event listeners and observers.
+Avoiding layout shifts.
+Appropriate font loading.
+Efficient rendering and component reuse.
+Avoid oversized unoptimised video backgrounds, unnecessary 3D, excessive blur, and expensive scroll handlers.
+Aim for smooth animation on ordinary mobile devices and validate actual performance.
+Responsive design
+Optimise for:
+320 px mobile screens.
+375–414 px mobile screens.
+Tablets.
+Standard desktops.
+Large desktop displays.
+Recompose the layout intentionally for mobile rather than merely shrinking the desktop design.
+Keep typography readable, CTAs accessible, imagery correctly cropped, and navigation usable.
+Prevent horizontal overflow from oversized text, transforms, fixed widths, or animated elements.
+Accessibility
+Use semantic HTML.
+Provide visible keyboard focus.
+Maintain sufficient colour contrast.
+Use accessible button and link labels.
+Support keyboard navigation.
+Use suitable image alt text.
+Implement accessible accordions and menus.
+Respect prefers-reduced-motion.
+Ensure all essential content remains available without animation.
+18. SEO AND CONTENT QUALITY
+Implement sensible technical SEO foundations:
+Unique page titles.
+Relevant meta descriptions.
+Logical heading hierarchy.
+Descriptive service content.
+Clean URL structure.
+Useful internal links.
+Descriptive image alt text.
+Appropriate structured data only when supported by real business information.
+Responsive layouts.
+Optimised assets.
+Do not invent a city or target location for local SEO.
+Do not stuff keywords or create duplicate service pages.
+Write concise, specific, customer-focused copy that explains the value of the services.
+Avoid clichés such as “We are the best in the industry,” “unmatched quality,” and “100% customer satisfaction” unless they can be substantiated.
+19. STRICT RULES FOR DEMO CREDIBILITY
+This is a proposed website designed to help the owner visualise their business's potential online presence.
+Maintain the distinction between proposed design elements and real business facts.
+You may create
+A proposed logo and visual identity.
+A suitable colour palette.
+A proposed tagline.
+A distinctive headline.
+A proposed service structure.
+Illustrative roofing photography.
+A suggested customer journey.
+Editable sample copy.
+A polished demo gallery layout.
+Functional frontend interactions.
+A contact form ready for real integration.
+You must not fabricate
+Company history.
+Years of experience.
+Number of completed projects.
+Customer testimonials.
+Customer ratings.
+Certifications or licences.
+Insurance details.
+Warranty terms.
+Manufacturer partnerships.
+Named customers.
+Completed project locations.
+Verified performance claims.
+Business contact details.
+Business-specific prices or discounts.
+Do not fill empty spaces with invented statistics or fake reviews to make the website look established.
+Instead, create credibility through design quality, clarity, useful content, strong imagery, transparent service explanations, and an intuitive enquiry journey.
+Keep uncertain business details editable and easy to replace before publication.
+20. IMPLEMENTATION REQUIREMENTS FOR GOOGLE AI STUDIO
+Build the actual website, not just a design description or static mockup.
+Use the available development environment and create a complete working implementation.
+If code generation is available:
+Use reusable React components where supported by the project.
+Establish shared design tokens.
+Keep the component hierarchy maintainable.
+Use semantic HTML.
+Keep animation logic modular.
+Use an appropriate icon library.
+Avoid unnecessary dependencies.
+Implement responsive styling.
+Ensure navigation and controls work.
+Keep assets organised.
+Fix implementation errors rather than leaving them unresolved.
+Do not overwrite or remove useful existing project functionality unless necessary.
+Do not stop after creating the hero section or a homepage screenshot.
+The result must be a cohesive, navigable website demo.
+21. FINAL QUALITY AUDIT
+Before considering the demo complete, inspect the actual rendered website.
+Brand quality
+Does the business name have a coherent proposed identity?
+Does the logo look professional?
+Do the colours and typography work together?
+Does the site feel bespoke rather than template-generated?
+Visual quality
+Is the hero memorable?
+Is the photography relevant and art-directed?
+Is the page visually balanced?
+Are service sections differentiated?
+Does the website communicate value without excessive text?
+Motion quality
+Are animations purposeful?
+Is the mobile menu fully functional?
+Are scroll reveals reliable?
+Is the motion restrained and consistent?
+Does reduced-motion mode work?
+Functionality
+Do navigation links work?
+Do CTAs reach the intended destinations?
+Does the mobile menu open and close correctly?
+Does the gallery work?
+Does the form validate correctly?
+Are integration requirements clearly identified?
+Technical quality
+Is there horizontal overflow?
+Are images broken?
+Are there console errors?
+Is the mobile layout properly composed?
+Is the page responsive?
+Are keyboard interactions accessible?
+Are images optimised?
+Are unsupported business claims absent?
+Fix the problems you identify rather than merely listing them.
+22. FINAL DELIVERABLE
+Produce a finished roofing website demo that includes:
+A distinctive proposed brand identity.
+A professional logo or wordmark concept.
+A cohesive design system.
+A memorable, high-impact hero.
+A complete roofing website structure.
+Visually differentiated service sections.
+Relevant, high-quality illustrative photography.
+Sophisticated but restrained motion design.
+Responsive desktop, tablet, and mobile layouts.
+A functional navigation system.
+An enquiry section ready for genuine business integration.
+SEO, accessibility, and performance foundations.
+A tested, coherent user experience.
+A concise list of actual business details that must be confirmed before the demo can become a live production website.
+Do not ask for more information before starting.
+Do not produce a generic prompt in response to this prompt.
+Build the website itself.
+The business name is the only required input. Make the creative decisions, establish the proposed identity, and execute the experience with the highest possible visual and technical quality.
+FINAL CREATIVE DIRECTIVE
+Imagine the roofing business owner opening this demo and thinking:
+“This is what my business could look like online. This feels professional, distinctive, and far beyond what I expected.”
+Create that reaction through exceptional design, not exaggerated claims.
+Make it cinematic in presentation, distinctive in identity, credible in content, precise in execution, fast in performance, and effortless to use.
